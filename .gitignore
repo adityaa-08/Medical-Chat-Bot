@@ -1,0 +1,17 @@
+myenv/
+venv/
+node_modules/
+__pycache__/
+*.log
+*.zip
+*.rar
+*.tar
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.bin
+.env
+data/
+models/
+uploads/
